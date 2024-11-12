@@ -2,18 +2,16 @@
 
 ![](https://github.com/vansh1505/vansh1505/blob/main/github%20readme%20profile.gif)
 
-# 💫 About Me:
-- 🔭 I’m a MERN Stack Developer and CSE student at Galgotias University
-- 🌱 Currently learning Java and Data Structures & Algorithms, growing day by day!
-- 👀 Interested in React, 3D animations, and open-source contributions.
-- 💞️ I love collaborating on projects, contributing to open source, and participating in hackathons.
+# About Me:
+- 🔭 MERN Stack Developer dedicated to crafting seamless web experiences
+- 🎓 Computer Science student at Galgotias University, fueled by a passion for learning and innovation
+- 🌱 Currently deepening my knowledge in Java and Data Structures & Algorithms
+- 👀 Enthusiastic about React, 3D animations, and contributing to open-source projects
+- 💞️ Thrive on collaborative projects, open-source contributions, and the excitement of hackathons
 - 📧 How to reach me: [vanshsharma.vs321@gmail.com](mailto:vanshsharma.vs321@gmail.com)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh1505)
-
-## Badges 🏆
-Here are a few badges from my recent contributions to open-source events and hackathons:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh1505)
   
 <div align="center" >
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="60" height="60" /> GITHUB STATS</h1>
@@ -31,9 +29,7 @@ Here are a few badges from my recent contributions to open-source events and hac
 </table>
 
 <div align="center">
-<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="60" height="60" /> CONTRIBUTIONS</h1>
-</div>
-
+  
 <table align="center">
   <tr>
     <td align="center">
